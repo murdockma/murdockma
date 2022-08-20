@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](Hi, I'm.png)
+
 #### I'm Michael, a student at CU Boulder ⇾
 
 
