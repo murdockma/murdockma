@@ -7,11 +7,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-🔭 I’m currently working on a platform for housing a merged media space
-🌱 I’m currently learning Kotlin and Ruby
-👯 I’m looking to collaborate on visualizations and exploratory analysis
-💬 Ask me about web scraping
-📫 How to reach me: murdock.mich@gmail.com
+- 🔭 I’m currently working on a platform for housing a merged media space
+- 🌱 I’m currently learning Kotlin and Ruby
+- 👯 I’m looking to collaborate on visualizations and exploratory analysis
+- 💬 Ask me about web scraping
+- 📫 How to reach me: murdock.mich@gmail.com
 <!-- - ⚡ Fun fact: ... -->
 
 
