@@ -1,4 +1,4 @@
-![image](git_header.png)
+![image](assets/git_header.png)
 
 <span align="center">
   
