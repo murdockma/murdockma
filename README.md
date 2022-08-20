@@ -1,4 +1,4 @@
-![image](github_header.png)
+![image](git_header.png)
 
 #### I'm Michael, a student at CU Boulder ⇾
 
