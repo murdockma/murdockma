@@ -4,18 +4,10 @@
   
   <a href="mailto:mimu4403@colorado.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-m-a58502204)
-  [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11472340/theduart)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRealDuart)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duartbreedt/)
   [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/TAL5W1JTC/rimeto_profile/U03TPFA13T8)
+  [![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=instagram&logoColor=white)](https://app.datacamp.com/profile/mimu4403)
   
 </span>
-
-🔭 I’m currently working on a platform for housing a merged media space
-
-🌱 Some things I'm learning are Kotlin and Ruby
-
-👯 I’m looking to collaborate on visualizations and exploratory analysis
 
 📫 How to reach me: murdock.mich@gmail.com
 <!-- - ⚡ Fun fact: ... -->
