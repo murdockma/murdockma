@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![image](github_header.png)
 
 #### I'm Michael, a student at CU Boulder ⇾
