@@ -10,18 +10,10 @@
   
 </span>
 
-📫 How to reach me: murdock.mich@gmail.com
-<!-- - ⚡ Fun fact: ... -->
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
+<span align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=dark&fire=DD2727)](https://git.io/streak-stats)
 
+</span>
