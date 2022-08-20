@@ -7,13 +7,9 @@
   [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/TAL5W1JTC/rimeto_profile/U03TPFA13T8)
   [![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white)](https://app.datacamp.com/profile/mimu4403)
   [![GCP Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://console.cloud.google.com/bigquery?project=cu-info1111)
-  
-</span>
 
-<span align="center">
+[![Git Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=dark&fire=DD2727)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=dark&fire=DD2727)](https://git.io/streak-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
+ 
 </span>
