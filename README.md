@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](Hi, I'm.png)
+![image](github_header.png)
 
 #### I'm Michael, a student at CU Boulder ⇾
 
