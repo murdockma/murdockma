@@ -7,8 +7,7 @@
   [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11472340/theduart)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheRealDuart)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duartbreedt/)
-  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TheDuart#5542)
-  [![Spotify Badge](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white)](https://open.spotify.com/user/212tewxcsp6hohie55z72kgiy)
+  [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/TAL5W1JTC/rimeto_profile/U03TPFA13T8)
   
 </span>
 
