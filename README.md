@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Michael, a student at CU Boulder ->
+#### I'm Michael, a student at CU Boulder ⇾
 
 
 <!-- **murdockma/murdockma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -8,9 +8,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a platform for housing a merged media space
-- 🌱 I’m currently learning Kotlin and Ruby
+- 🌱 Some things I'm learning are Kotlin and Ruby
 - 👯 I’m looking to collaborate on visualizations and exploratory analysis
-- 💬 Ask me about web scraping
 - 📫 How to reach me: murdock.mich@gmail.com
 <!-- - ⚡ Fun fact: ... -->
 
