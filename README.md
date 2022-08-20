@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Michael, a student at CU Boulder. 
+#### I'm Michael, a student at CU Boulder ->
 
 
 <!-- **murdockma/murdockma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
