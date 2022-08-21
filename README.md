@@ -26,4 +26,4 @@
 <!-- About me -->
 Hey there 👋
 
-I'm Michael, a Senior at CU Boulder studying Computer and Information Science. This account is used for housing repositories consisting of personal and school-related projects
+I'm Michael, a Senior at CU Boulder studying Computer and Information Science. This account is used for housing repositories consisting of personal and school-related projects.
