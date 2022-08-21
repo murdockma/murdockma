@@ -13,12 +13,6 @@
 </span>
 
 
-<!-- About me -->
-Hey there 👋
-
-I'm Michael, a Senior at CU Boulder studying Computer and Information Science. I recently wrapped up my internship and will be using this account for personal and school-related projects.
-
-
 <!-- Stats -->
 <span align="center">
   
@@ -27,3 +21,9 @@ I'm Michael, a Senior at CU Boulder studying Computer and Information Science. I
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
  
 </span>
+
+
+<!-- About me -->
+Hey there 👋
+
+I'm Michael, a Senior at CU Boulder studying Computer and Information Science. I recently wrapped up my internship and will be using this account for personal and school-related projects.
