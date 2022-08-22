@@ -16,7 +16,7 @@
 <!-- Stats -->
 <span align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=murdockma&count_private=true&include_all_commits=true&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=murdockma&count_private=true&theme=dark&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
  
