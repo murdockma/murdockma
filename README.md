@@ -24,10 +24,3 @@
 
 
 <!-- About me -->
-Hey there 👋
-
-I'm Michael, a Senior at CU Boulder studying Computer and Information Science. This account is used for housing repositories consisting of personal and school-related projects.
-
-Currently I'm working on building a bootstrapped portfolio, learning ruby, and conducting exploratory analysis on congressional spending across parties.
-
-Outside of work, I enjoy running, hiking, listening to music, gaming, and exploring Denver.
