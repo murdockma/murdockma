@@ -16,7 +16,7 @@
 <!-- Stats -->
 <span align="center">
   
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=murdockma)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stat](https://github-readme-stats.vercel.app/api/wakatime?username=murdockma)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
  
