@@ -16,7 +16,7 @@
 <!-- Stats -->
 <span align="center">
   
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdockma&count_private=true&theme=dark&show_icons=true)
+[![Git Streak](http://github-readme-streak-stats.herokuapp.com?user=murdockma&theme=dark&fire=DD2727)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
  
