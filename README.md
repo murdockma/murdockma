@@ -16,7 +16,7 @@
 <!-- Stats -->
 <span align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=True&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=murdockma&show_icons=True&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)
  
