@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![image](assets/git_header.png)
+<!-- ![image](assets/git_header.png) -->
 
 <!-- Badges -->
 <span align="center">
