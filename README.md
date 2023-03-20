@@ -5,7 +5,7 @@
 <span align="center">
   
   <a href="mailto:mimu4403@colorado.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-m-a58502204)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murdockma/)
   [![DataCamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=white)](https://app.datacamp.com/profile/mimu4403)
   [![Portfolio Git Badge](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://murdockma.github.io)
   
