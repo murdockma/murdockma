@@ -13,11 +13,11 @@
 
 
 <!-- Stats -->
-<span align="center">
+<!-- <span align="center"> -->
   
-[![Git Streak](http://github-readme-streak-stats.herokuapp.com?user=murdockma&theme=dark&fire=DD2727)](https://git.io/streak-stats)
+<!--[![Git Streak](http://github-readme-streak-stats.herokuapp.com?user=murdockma&theme=dark&fire=DD2727)](https://git.io/streak-stats)-->
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murdockma&layout=compact&theme=dark)](https://github.com/murdockma/github-readme-stats)-->
  
   
-</span>
+<!-- </span> -->
