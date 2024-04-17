@@ -21,6 +21,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
+
 
 <!-- Stats -->
 <!-- <span align="center"> -->
