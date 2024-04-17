@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-<img src="https://raw.githubusercontent.com/murdockma/murdockma/snake/github-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/holic-x/holic-x/snake/github-snake-dark.svg" width="100%">
 
 
 <!-- Stats -->
