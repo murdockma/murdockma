@@ -11,10 +11,13 @@
   
 </span>
 
-<!-- holic-x -->
+<!-- holic-x 
+
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
+-->
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
@@ -23,8 +26,7 @@
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<img src="https://raw.githubusercontent.com/holic-x/holic-x/snake/github-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 
 
 <!-- Stats -->
