@@ -1,6 +1,6 @@
 I'm Michael, a Computer Science major working in data in Denver.
 
-Python, Typescript, Go, C++, Ruby, Swift
+Python, Typescript, C++, Go, Ruby, Swift
 
 <!-- Links -->
 - 📧 [Email me](mailto:murdock.mich@gmail.com)
