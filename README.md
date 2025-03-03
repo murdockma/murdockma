@@ -1,6 +1,8 @@
 <!-- Header Image -->
 <!-- ![image](assets/git_header.png) -->
+I'm Michael, a CS major working as an Analyst in Denver.
 
+Python, Typescript, Go, C++, Ruby, Swift
 <!-- Badges -->
 <span align="center">
   
