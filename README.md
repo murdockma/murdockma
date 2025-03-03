@@ -3,8 +3,8 @@ I'm Michael, a Computer Science major working in data in Denver.
 Python, Typescript, Go, C++, Ruby, Swift
 
 <!-- Links -->
-- 📧  [Email me](mailto:murdock.mich@gmail.com)
-- <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-black-icon.png" width="15" height="15"> [View my LinkedIn](https://www.linkedin.com/in/murdockma/)
+- 📧 [Email me](mailto:murdock.mich@gmail.com)
+- 🔗 [View my LinkedIn](https://www.linkedin.com/in/murdockma/)
 
 
 <!-- holic-x 
