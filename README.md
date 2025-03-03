@@ -1,17 +1,11 @@
-<!-- Header Image -->
-<!-- ![image](assets/git_header.png) -->
 I'm Michael, a Computer Science major working in data in Denver.
 
-Python, Typescript, Go, C++, Ruby, Swift<br><br>
+Python, Typescript, Go, C++, Ruby, Swift
 
-<!-- Badges -->
-<span align="left">
-  
-  <a href="mailto:murdock.mich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murdockma/)
-<!-- [![Portfolio Git Badge](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://murdockma.github.io) -->
-  
-</span>
+<!-- Links -->
+- 📧 [Email me](mailto:murdock.mich@gmail.com)
+- <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-blue-icon.png" width="18" height="15"> [View my LinkedIn](https://www.linkedin.com/in/murdockma/)
+
 
 <!-- holic-x 
 
