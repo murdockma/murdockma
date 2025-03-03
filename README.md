@@ -1,10 +1,10 @@
 <!-- Header Image -->
 <!-- ![image](assets/git_header.png) -->
-I'm Michael, a CS major working as an Analyst in Denver.
+ I'm Michael, a Computer Science major working in data in Denver.
 
 Python, Typescript, Go, C++, Ruby, Swift
 <!-- Badges -->
-<span align="center">
+<span align="left">
   
   <a href="mailto:murdock.mich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murdockma/)
