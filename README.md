@@ -2,8 +2,7 @@
 <!-- ![image](assets/git_header.png) -->
 I'm Michael, a Computer Science major working in data in Denver.
 
-Python, Typescript, Go, C++, Ruby, Swift
-<br>
+Python, Typescript, Go, C++, Ruby, Swift<br><br>
 
 <!-- Badges -->
 <span align="left">
