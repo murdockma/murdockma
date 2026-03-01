@@ -1,4 +1,4 @@
-I'm Michael, a Computer & Information Science major working in data in Denver.
+hey I'm Michael, i like design and data
 
 Python, Typescript, C++, Go, Ruby, Swift
 
